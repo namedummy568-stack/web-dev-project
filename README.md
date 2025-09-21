@@ -13,6 +13,7 @@ This is the initial README for the web development project.
 
 ### Refactoring
 - Database connection
+- Improved code readability
 
 ### Documentation
 - Updated setup instructions in README
