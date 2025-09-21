@@ -9,6 +9,7 @@ This is the initial README for the web development project.
 
 ### Bug Fixes
 - Login redirect issue
+- Broken image links
 
 ### Refactoring
 - Database connection
