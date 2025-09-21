@@ -6,6 +6,7 @@ This is the initial README for the web development project.
 - User profile view
 - API endpoint for product search
 - Search functionality
+- Dark mode toggle
 
 ### Bug Fixes
 - Login redirect issue
