@@ -7,3 +7,6 @@ This is the initial README for the web development project.
 
 ### Bug Fixes
 - Login redirect issue
+
+### Refactoring
+- Database connection
