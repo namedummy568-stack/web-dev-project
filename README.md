@@ -11,3 +11,6 @@ This is the initial README for the web development project.
 
 ### Refactoring
 - Database connection
+
+### Documentation
+- Updated setup instructions in README
